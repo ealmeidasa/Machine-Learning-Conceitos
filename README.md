@@ -1,2 +1,3 @@
 # Machine Learning Conceitos
- Definição 
+
+ O objetivo deste post é explicar o que é Machine Learning e seus principais algoritimos
